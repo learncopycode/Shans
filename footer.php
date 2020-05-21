@@ -1,4 +1,4 @@
-<!-- Footer -->
+   <!-- Footer -->
 <footer id="footer">
-									<p class="copyright">&copy; Shan Shaik. All rights reserved. </p>
+									   <p class="copyright">&copy; Shans Shaik. All rights reserved. </p>
 								</footer>
